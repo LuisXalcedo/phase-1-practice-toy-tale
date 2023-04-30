@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 16
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Luis Salcedo",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "likes": 5,
+      "id": 9
+    },
+    {
+      "name": "Juan",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "likes": 3,
+      "id": 10
+    },
+    {
+      "name": "Manuel",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "likes": 3,
+      "id": 11
+    },
+    {
+      "name": "Luis",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "likes": 18,
+      "id": 12
     }
   ]
 }
